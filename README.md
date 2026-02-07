@@ -9,4 +9,5 @@ This repository contains Python-based implementation examples developed while st
 - NumPy
 - SciPy
 - Matplotlib
+- Ambiance
 - Jupyter Notebook (for interactive analysis)
